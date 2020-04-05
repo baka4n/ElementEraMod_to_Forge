@@ -11,7 +11,6 @@ out
 *.ipr
 *.iws
 *.iml
-.idea
 
 # gradle
 build/_applyBinpatches_2
@@ -28,11 +27,3 @@ build/extractSrg
 build/natives
 build/reobfJar
 build/tmp
-.gradle
-
-# other
-eclipse
-run
-
-# Files from Forge MDK
-forge*changelog.txt
