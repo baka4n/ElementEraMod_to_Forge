@@ -1,5 +1,6 @@
 # eclipse
 *.bin
+*.lock
 *.launch
 .settings
 .metadata
@@ -12,6 +13,9 @@ out
 *.iws
 *.iml
 .idea
+*.bin
+*.lock
+*.xml
 
 # gradle
 build
