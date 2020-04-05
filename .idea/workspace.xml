@@ -74,7 +74,7 @@
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RunManager" selected="Gradle.ElementEraMod_to_Forge [build]">
-    <configuration name="ElementEraMod_to_Forge [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ElementEraMod_to_Forge [build]" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -133,7 +133,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ElementEraMod_to_Forge [build]" />
         <item itemvalue="Gradle.ElementEraMod_to_Forge [runClient]" />
         <item itemvalue="Gradle.ElementEraMod_to_Forge [genIntellijRuns]" />
       </list>
@@ -162,22 +161,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="530" y="100" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1586070662125" />
-    <state width="1014" height="161" key="GridCell.Tab.0.bottom" timestamp="1586076461276">
+    <state x="384" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586077301535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1014" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586076461276" />
-    <state width="1014" height="161" key="GridCell.Tab.0.center" timestamp="1586076461276">
+    <state x="384" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586077301535" />
+    <state width="1014" height="161" key="GridCell.Tab.0.bottom" timestamp="1586077452387">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1014" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586076461276" />
-    <state width="1014" height="161" key="GridCell.Tab.0.left" timestamp="1586076461276">
+    <state width="1014" height="161" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586077452387" />
+    <state width="1014" height="161" key="GridCell.Tab.0.center" timestamp="1586077452387">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1014" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586076461276" />
-    <state width="1014" height="161" key="GridCell.Tab.0.right" timestamp="1586076461276">
+    <state width="1014" height="161" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586077452387" />
+    <state width="1014" height="161" key="GridCell.Tab.0.left" timestamp="1586077452387">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1014" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586076461276" />
+    <state width="1014" height="161" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586077452387" />
+    <state width="1014" height="161" key="GridCell.Tab.0.right" timestamp="1586077452387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1014" height="161" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586077452387" />
     <state x="439" y="0" key="SettingsEditor" timestamp="1586072287533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
